@@ -1,4 +1,4 @@
-public class main1 {
+public class Main1 {
     public static void main(String[] args) {
 
         int ticket = 400; // Стоимость билета
